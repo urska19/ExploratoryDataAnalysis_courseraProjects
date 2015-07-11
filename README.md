@@ -6,7 +6,7 @@ ___
 
 **Project1:**
 
-Using the subset of the dataset 'Electric power consumption' from the [UC Irvine Machine Learning Repository] (http://archive.ics.uci.edu/ml/) construct four plots and save them to a PNG file  with a width of 480 pixels and a height of 480 pixels
+Using the subset of the dataset 'Electric power consumption' from the [UC Irvine Machine Learning Repository] (http://archive.ics.uci.edu/ml/) construct four plots and save them to a PNG file  with a width of 480 pixels and a height of 480 pixels.
 
 ___
 
